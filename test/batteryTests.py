@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
-# Task 3 - Lyft Virtual Experience
-"""
-Testing the implementations of the battery classes 
-"""
+
+
 import os, sys
 import unittest
 

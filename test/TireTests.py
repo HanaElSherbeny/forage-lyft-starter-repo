@@ -3,7 +3,7 @@ import unittest
 from datetime import datetime
 sys.path.append('../')
 import CarriganTire
-from OctoprimeTire import OctoprimeTire
+import OctoprimeTire
 
 class TireTest(unittest.TestCase):
     def test_carrigan_should_not_be_serviced(self):
